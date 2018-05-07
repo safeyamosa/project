@@ -1,0 +1,26 @@
+{
+  "name": "my_swp",
+  "version": "1.0.0",
+  "description": "my swp",
+  "main": "server.js",
+  "scripts": {
+    "start" : node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "my",
+    "swp"
+  ],
+  "author": "safeya",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.10",
+    "angular-ui-router": "^1.0.3",
+    "bootstrap": "^4.1.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.17"
+  }
+}
